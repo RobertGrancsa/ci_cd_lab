@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: ghcr.io/robertgrancsa/ci_cd_lab:latest
+          image: ghcr.io/robertgrancsa/ci_cd_lab:5
           ports:
             - containerPort: 8080
