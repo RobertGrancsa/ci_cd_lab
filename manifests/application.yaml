@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/RobertGrancsa/ci_cd_lab.git 
+    repoURL: https://github.com/RobertGrancsa/ci_cd_lab 
     targetRevision: HEAD
     path: manifests
   destination:
